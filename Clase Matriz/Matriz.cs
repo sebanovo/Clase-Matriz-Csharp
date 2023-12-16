@@ -44,7 +44,7 @@ namespace Clase_Matriz
             for (f1 = 1; f1 <= f; f1++)
             {
                 for (c1 = 1; c1 <= c; c1++)
-                    s = s + x[f1, c1] + '\u0009';  // '\u0009' es el código hexadecimal para el tabulador
+                    s = s + x[f1, c1] + '\u0009';
                 s = s + '\u000D' + '\u000A';
             }
             return s;
@@ -907,7 +907,6 @@ namespace Clase_Matriz
         public void SegmentarParYNoParDeLaTriangularInferiorDerecha3()
         {
             int f1, c1, f2, c2, inc;
-            int a; int b;
             NEnt n1, n2;
 
             n1 = new NEnt();
