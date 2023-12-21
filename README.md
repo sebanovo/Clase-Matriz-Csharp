@@ -5,11 +5,13 @@ desarrollamos una clase Matriz en JavaScript. Esta clase permite realizar
 cálculos matemáticos utilizando una Matriz bidimensional como base y está
 diseñada para llevar a cabo una variedad de operaciones matemáticas.
 
-Visita la version Web de la clase Vector:
-[Clase-Vector](https://clase-vector-vanilla-javascript.vercel.app/)
+Visita la version Web de la clase Matriz:
+[Clase Matriz](https://vercel.com/sebastianinf/clase-matriz-vanilla-javascript)
 
 <div align="center">
-  <img src="https://i.ibb.co/YtdvLqp/clase-matriz-csharp.png" alt="clase-Matriz-csharp" border="0">
+  <a href="https://clase-matriz-vanilla-javascript.vercel.app/">
+    <img src="https://i.ibb.co/YtdvLqp/clase-matriz-csharp.png" alt="clase-Matriz-csharp" border="0">
+  </a>
 </div>
 
 ## Características
