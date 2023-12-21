@@ -6,7 +6,7 @@ cálculos matemáticos utilizando una Matriz bidimensional como base y está
 diseñada para llevar a cabo una variedad de operaciones matemáticas.
 
 Visita la version Web de la clase Matriz:
-[Clase Matriz](https://vercel.com/sebastianinf/clase-matriz-vanilla-javascript)
+[Clase Matriz](https://clase-matriz-vanilla-javascript.vercel.app/)
 
 <div align="center">
   <a href="https://clase-matriz-vanilla-javascript.vercel.app/">
