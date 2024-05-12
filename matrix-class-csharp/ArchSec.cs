@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Clase_Matriz
+namespace matrix_class_csharp 
 {
     class ArchSec
     {

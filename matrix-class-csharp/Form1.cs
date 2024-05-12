@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
 
-namespace Clase_Matriz
+namespace matrix_class_csharp 
 {
     public partial class Form1 : Form
     {
@@ -239,7 +239,7 @@ namespace Clase_Matriz
 
         private void segmentarParYNoParTriangularInferiorDerechaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            M1.SegmentarParYNoParDeLaTriangularInferiorDerecha1();
+            M1.SegmentarParYNoParDeLaTriangularInferiorDerecha2();
             textBox6.Text = M1.Descargar();
         }
 

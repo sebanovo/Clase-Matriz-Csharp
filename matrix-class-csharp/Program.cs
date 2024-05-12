@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Clase_Matriz
+namespace matrix_class_csharp 
 {
     static class Program
     {

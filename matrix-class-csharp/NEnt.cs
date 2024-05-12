@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase_Matriz
+namespace matrix_class_csharp 
 {
     class NEnt
     {

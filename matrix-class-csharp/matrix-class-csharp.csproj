@@ -7,8 +7,8 @@
     <ProjectGuid>{1F55B67A-F996-4A95-94A4-8384952DC7AB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Clase_Matriz</RootNamespace>
-    <AssemblyName>Clase Matriz</AssemblyName>
+    <RootNamespace>matrix_class_csharp</RootNamespace>
+    <AssemblyName>matrix_class_csharp</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

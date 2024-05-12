@@ -1,4 +1,4 @@
-﻿namespace Clase_Matriz
+﻿namespace matrix_class_csharp 
 {
     partial class Form1
     {
